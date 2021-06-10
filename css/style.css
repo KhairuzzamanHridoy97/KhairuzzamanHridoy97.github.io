@@ -27,7 +27,7 @@ body{
 .bg-redtype-color{
     color: #fb857f;
 }
-.circle{
+.circle-footer{
     background-color: #fb857f;
     height: 150px;
     width: 150px;
@@ -52,4 +52,18 @@ body{
 
 .footer{
     background-color: #2bb3dd;
+}
+.circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  color: #2BB3DD;
+
+}
+.circle-footer:hover{
+     background-color: #474D5D;
 }
