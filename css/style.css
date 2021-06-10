@@ -24,6 +24,32 @@ body{
 .bg-redtype{
     background-color: #fb857f;
 }
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #cacaca;
+}
+.banner-column{
+    background-color: #808080;
+}
+
+.navbar-container{
+    background-color: #262b37;
+}
+
+.about-container{
+    background-color: #00BDBD;
+ }
+
+.education-container{
+    background-color:#EEEEEE;
+}
+
+.bg-redtype{
+    background-color: #fb857f;
+}
 .bg-redtype-color{
     color: #fb857f;
 }
@@ -54,16 +80,17 @@ body{
     background-color: #2bb3dd;
 }
 .circle-footer{
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  display: inline-block;
-  background-color: white;
-  font-size: 40px;
-  text-align: center;
-  color: #2BB3DD;
-
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2BB3DD;
+  
 }
+
 .circle-footer:hover{
-     background-color: #474D5D;
+    background-color: #474D5D;
 }
