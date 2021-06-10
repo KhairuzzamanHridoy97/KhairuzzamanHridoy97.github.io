@@ -3,50 +3,39 @@ body{
 }
 
 .banner-container{
-    background-color: #CACACA;
+    background-color: #cacaca;
 }
-
 .banner-column{
-    background-color: #8D8D8D;
+    background-color: #808080;
 }
 
 .navbar-container{
-    top: 0;
-    background-color: #262B37;
-    position: sticky;
-    z-index: 2;
+    background-color: #262b37;
 }
 
 .about-container{
-   background-color: #00BDBD;
-}
+    background-color: #00BDBD;
+ }
 
 .education-container{
-    background-color: #EEEEEE;
+    background-color:#EEEEEE;
 }
 
 .bg-redtype{
-    background-color: #FB857F;
+    background-color: #fb857f;
 }
-
-.bg-redtype:hover{
-     color: black!important;
-}
-
 .bg-redtype-color{
-    color: #FB857F;
+    color: #fb857f;
 }
-
-.circle-edu{
-    background-color: #FB857F;
-    width: 150px;
+.circle{
+    background-color: #fb857f;
     height: 150px;
+    width: 150px;
     border-radius: 50%;
-     
 }
 
 .project-container{
-    background-color: #2BB3DD;
+    background-color: #2bb3dd;
 }
 
 .form-container{
@@ -62,19 +51,5 @@ body{
 }
 
 .footer{
-    background-color: #2BB3DD;
-}
-.circle{
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  display: inline-block;
-  background-color: white;
-  font-size: 40px;
-  text-align: center;
-  color: #2BB3DD;
-
-}
-.circle:hover{
-     background-color: #474D5D;
+    background-color: #2bb3dd;
 }
